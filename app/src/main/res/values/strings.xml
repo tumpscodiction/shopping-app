@@ -1,0 +1,23 @@
+
+
+<resources>
+
+    <string name="app_name">Retail Shop</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_text">Select song from below to play</string>
+    <string name="standard">Standard</string>
+    <string name="title_changelog">Change log</string>
+    <string name="changelog_close">Close</string>
+    <string name="action_hide">Hide Panel</string>
+    <string name="action_show">Show Panel</string>
+    <string name="action_anchor_enable">Enable Anchor Point</string>
+    <string name="action_anchor_disable">Disable Anchor Point</string>
+    <string name="idle">Idle</string>
+    <string name="crash_toast_text">Oops Crash Occurred</string>
+    <string name="offer_banner">"Shop for 2000 to get TK 100 discount----Shop for 3000 to get TK 200 discount----10% of on any Electronics Items on minimum purchase of 10000"</string>
+    <string name="checkout">CheckOut</string>
+    <string name="similar_product">You may also like</string>
+    <string name="slogan">Assignment</string>
+
+
+</resources>

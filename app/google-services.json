@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "354802623329",
+    "project_id": "retail-shop-app-27172",
+    "storage_bucket": "retail-shop-app-27172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354802623329:android:e46fd48b403f68f1b41b20",
+        "android_client_info": {
+          "package_name": "com.android.retailapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354802623329-d8tvutee40mgabqpd4pqhatd8j5n65dg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.retailapp",
+            "certificate_hash": "bfe900209959dbc3ed8ece434025dcee79095509"
+          }
+        },
+        {
+          "client_id": "354802623329-tl91ej34rgn9hdjjfc4bad3l76dh55tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVAZAab3nznA4lkc97OtO6PDaY7BmgLO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354802623329-tl91ej34rgn9hdjjfc4bad3l76dh55tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
